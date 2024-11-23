@@ -53,8 +53,7 @@
 &nbsp;&nbsp; [Excel Resources](https://support.microsoft.com/en-us/excel)  
 
 📉 **Plotly**  
-&nbsp;&nbsp; [Plotly](https://plotly.com/) | [Dash by Plotly](https://dash.plotly.com/)  
-Color=black&style=flat)  
+&nbsp;&nbsp; [Plotly](https://plotly.com/) | [Dash by Plotly](https://dash.plotly.com/)   
 📈 Excel (Pivot Tables, Power Query), Plotly  
 
 ### **Machine Learning**  
