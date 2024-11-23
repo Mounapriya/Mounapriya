@@ -28,14 +28,33 @@
 - 🍔 **Online Food Delivery**: Analyzed trends in food orders and customer behaviors  
 
 ---
-
 ## 🔧 **Skills & Tools**
+
 ### **Programming & Data Analysis**  
 💻 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-📋 **SQL**, Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn  
+&nbsp;&nbsp; [Learn Python](https://www.python.org/) | [Python Tutorials](https://docs.python.org/3/tutorial/)  
+
+📋 **SQL**  
+&nbsp;&nbsp; [SQL Basics](https://www.w3schools.com/sql/) | [Advanced SQL Concepts](https://www.sqltutorial.org/)  
+
+📊 **Pandas, NumPy, Scikit-learn**  
+&nbsp;&nbsp; [Pandas Documentation](https://pandas.pydata.org/docs/) | [NumPy](https://numpy.org/doc/) | [Scikit-learn](https://scikit-learn.org/stable/)  
+
+📈 **Matplotlib, Seaborn**  
+&nbsp;&nbsp; [Matplotlib](https://matplotlib.org/stable/index.html) | [Seaborn](https://seaborn.pydata.org/)  
+
+---
 
 ### **Visualization & Dashboarding**  
 📊 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat)  
+&nbsp;&nbsp; [Power BI Overview](https://powerbi.microsoft.com/en-us/) | [Power BI Tutorials](https://learn.microsoft.com/en-us/power-bi/)  
+
+📈 **Excel** (Pivot Tables, Power Query)  
+&nbsp;&nbsp; [Excel Resources](https://support.microsoft.com/en-us/excel)  
+
+📉 **Plotly**  
+&nbsp;&nbsp; [Plotly](https://plotly.com/) | [Dash by Plotly](https://dash.plotly.com/)  
+Color=black&style=flat)  
 📈 Excel (Pivot Tables, Power Query), Plotly  
 
 ### **Machine Learning**  
