@@ -47,11 +47,5 @@
 
 ### **Machine Learning**  
 🤖 **Logistic Regression, Decision Trees, Clustering, Sentiment Analysis (TF-IDF, NLP), Forecasting**
-
-📉 **Plotly**  
-&nbsp;&nbsp; [Plotly](https://plotly.com/) | [Dash by Plotly](https://dash.plotly.com/)   
-📈 Excel (Pivot Tables, Power Query), Plotly  
-
-### **Machine Learning**  
-🤖 Logistic Regression, Decision Trees, Clustering, Sentiment Analysis (TF-IDF, NLP), Forecasting  
+ 
 
